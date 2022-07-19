@@ -38,7 +38,6 @@ int main()
 		else
 		{
 		    system("cls");
-			system("pause");
 			display.titleUserRegistration();
 			display.titleLogin();
 			db.recordLoginUser(in.setData());
